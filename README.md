@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A simple program that calculates the **Simple Interest (SI)** and the **Total Amount** for a given principal, rate of interest and time period.
+A simple program that calculates the **Simple Interest (SI)** and the **Total Amount** for a given principal, rate of interest (per annum) and time period (in years).
 
 ## Formula
 
